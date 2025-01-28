@@ -1,0 +1,11 @@
+1  load data from csv file
+2  and trand top 10 record it 
+3  sort data age coloumn 
+4  remove empty data frome the file 
+5  draw a line chart for any two coloumns
+6  short the data on creadit score any onther coloumn in desplay 15 costomer with higest  values 
+7  draw a py chart using customize colours 
+8  find the customer having salary gt 750000
+9  find min and median of a customer balance 
+10 draw a scatterd graph 
+	
